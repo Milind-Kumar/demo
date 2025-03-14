@@ -12,6 +12,7 @@
     <bytecodeTargetLevel>
       <module name="task03" target="11" />
       <module name="task05" target="11" />
+      <module name="task10" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
